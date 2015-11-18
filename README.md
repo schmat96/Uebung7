@@ -10,6 +10,10 @@
 
 *   2ter Punkt
 
+|1|2|3|4|
+|--:|--:|--:|--:|
+|Hoi|Sali|Wie hesch?|Guet!|
+|Guet!|Wie hesch?|Sali|Hoi|
 
 ##Tabelle
 Inhalt 1
