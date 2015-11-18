@@ -15,9 +15,4 @@
 |Hoi|Sali|Wie hesch?|Guet!|
 |Guet!|Wie hesch?|Sali|Hoi|
 
-##Tabelle
-Inhalt 1
-
-##Beste Tabelle
-Inhalt 2
 
