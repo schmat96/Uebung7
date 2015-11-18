@@ -8,8 +8,6 @@
 
 *   Eine Liste!
 
-    With multiple paragraphs.
-
 *   2ter Punkt
 
 
